@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun createBirthdayCard(view: View) {
-        val name= nameInput
         Toast.makeText(this,"Button was clicked...",Toast.LENGTH_LONG).show()
     }
 }
